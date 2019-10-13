@@ -12,7 +12,7 @@ Template Author url: http://themeonlab.com
             1. Logo /.logo
             2. Nav Menu /.menu
             3. Slider /.main-slider
-		2. Bride Groom Section /.bride_groom_sec   
+		2. Bride Groom Section /.bride_groom_sec
         3. Parallex Section 1/ .parallex_sec_1
         4. Love Story Section / .love_story_sec
         5. Parallex Section 2/ .parallex_sec_2
@@ -26,7 +26,7 @@ Template Author url: http://themeonlab.com
 		13. RSVP Section / .rsvp_sec
 		14.Footer Top Section /.footer_top_sec
 		15.Footer Section /.footer_sec
-        
+
 *******************************************************************************/
 
 /******************************************************************************
@@ -35,7 +35,7 @@ Template Author url: http://themeonlab.com
 Background:	#ffffff
 Body font color: #3a3939;
 Common Header h2:	#393838;
-Common Header h3:	#db4766;
+Common Header h3:	#DB4766;
 Client Review h2 span: #fff;
 Footer:		#FFFFFF;
 Button Background: #EA4747;
@@ -162,13 +162,13 @@ background-color : #DB4766;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
 color:#fff;
-background:#db4766;
+background:#DB4766;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
-color:#fff;	
+color:#fff;
 }
 .navbar-default .navbar-nav > li.active > a.current{
-background:#db4766;
+background:#DB4766;
 color:#fff;
 }
 
@@ -197,7 +197,7 @@ color:#fff;
 	}
 
 	}
-/* New nav style end*/	
+/* New nav style end*/
 
 .container {
 padding-left : 0;
@@ -205,14 +205,14 @@ padding-right : 0;
 }
 .container-fluid{
 padding-left : 0;
-padding-right : 0;	 
+padding-right : 0;
  }
 .row{
 margin-right:0px;
 margin-left:0px;
 }
 .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span{
-background:#db4766;	
+background:#DB4766;
 }
 .owl-theme .owl-controls .owl-page span{
    margin: 5px 7px 1px 7px;
@@ -273,9 +273,9 @@ font-weight : 700;
 line-height : 50px;
 }
 section.main-slider{
-padding-top:89px;	
+padding-top:89px;
 padding-bottom:0px;
-background:#db4766;
+background:#DB4766;
 }
 .large_bold_white{
 font-family: 'Great Vibes', cursive;
@@ -285,7 +285,7 @@ font-size:100px;
 }
 
 .flex-direction-nav a {
-	background:rgba(0,0,0,1); 
+	background:rgba(0,0,0,1);
 	border-radius:3px;
 	text-align:center;
 	font-size:30px;
@@ -325,14 +325,14 @@ line-height : 75px;
 }
 section {
 padding-top : 85px;
-padding-bottom : 90px; 
+padding-bottom : 90px;
 position:relative;
 }
 section h2.section-heading {
 margin-top : 0;
 margin-bottom : 15px;
 font-size : 57px;
-color:#393838;	
+color:#393838;
 font-weight:400;
 }
 section h3.section-subheading {
@@ -388,7 +388,7 @@ nav.navbar >.container{
 	}
 /* Bride Groom section */
 .bride_groom_sec{
-	
+
 	}
 
 .bride_groom_sec_2{
@@ -414,7 +414,7 @@ nav.navbar >.container{
 	padding:30px;
 	}
 .brd_grm_img img{
-	
+
 	}
 .heart_frame{
 	position:absolute;
@@ -505,7 +505,7 @@ nav.navbar >.container{
 	background:#F7F4F4;
 	}
 .love_story_details{
-	
+
 	}
 .love_story_details h3{
 	margin-top:10px;
@@ -517,7 +517,7 @@ nav.navbar >.container{
 .love_story_details h3 a{
 	font-size: 40px;
 	text-decoration: none;
-	color: #db4766;
+	color: #DB4766;
 	font-weight: 400;
 	text-transform:initial;
 	}
@@ -546,7 +546,7 @@ nav.love_story_nav a{
 	font-size:22px;
 	}
 nav.love_story_nav a:hover{
-	color:#db4766;
+	color:#DB4766;
 	}
 a.read_more{
 	color:#3a3939;
@@ -558,10 +558,10 @@ a.read_more img{
 a.read_more:hover{
 	color:#CC3051;
 	}
-	
+
 .love_carosel.owl-theme .owl-controls{
 	margin-bottom:30px;
-	}	
+	}
 .love_carosel.owl-theme .owl-controls .owl-page span, .love_carosel.owl-theme .owl-controls.clickable .owl-page span{
 	background:url(img/love_btn_n.png) no-repeat center center;
 	width:35px;
@@ -643,7 +643,7 @@ a.read_more:hover{
 	margin-bottom:15px;
 	}
 .family_member_wrap h3{
-	color:#db4766;
+	color:#DB4766;
 	font-size:32px;
 	font-weight:400;
 	margin-bottom:4px;
@@ -700,17 +700,17 @@ text-align : center;
 .family_mem_carosel p.family_txt_details{
 	margin-bottom: 0px;
 }
-/* New carosel style */	
+/* New carosel style */
 .family_member_wrap .col-lg-4{
 	padding-left:0px;
 	padding-right:0px;
 	}
 
-/* New carosel style end*/	
-	
+/* New carosel style end*/
+
 .event_party_sec{
-padding-bottom:0px;	
-}	
+padding-bottom:0px;
+}
 .evnt_prt {
 text-align : center;
 color : #ffffff;
@@ -744,12 +744,12 @@ border-radius:5px;
 -moz-backface-visibility: hidden;
 -ms-backface-visibility: hidden;
 -o-backface-visibility: hidden;
-backface-visibility: hidden;        
+backface-visibility: hidden;
 transform: rotateY(180deg);
 transition:.5s;
 }
 .two .evnt_prt,.two .evnt_prt_back{
-border-radius:0px;	
+border-radius:0px;
 	}
 
 /* Flip card style */
@@ -761,28 +761,28 @@ border-radius:0px;
   z-index: 1;
 }
 
- .containers {    
+ .containers {
 	 -webkit-perspective: 1000px;
         -ms-perspective: 1000px;
         -moz-perspective: 1000px;
         perspective: 1000px;
-		
+
     }
-      
+
     .containers, .card {
-		width: 100%; 
-		height: 100%; 
-		position:absolute; 
-		top:0; 
-		left:0; 
-		font-family: sans-serif; 
+		width: 100%;
+		height: 100%;
+		position:absolute;
+		top:0;
+		left:0;
+		font-family: sans-serif;
 		float: left;
 	}
 
     .card {
         width: 100%;
         height: 100%;
-		-webkit-transition: all 0.5s linear;        
+		-webkit-transition: all 0.5s linear;
         -ms-transition: all 0.5s linear;
         -moz-transition: all 0.5s linear;
         transition: all 0.5s linear;
@@ -791,7 +791,7 @@ border-radius:0px;
         -moz-backface-visibility: hidden;
         backface-visibility: hidden;
     }
-        
+
     .front {
     }
 
@@ -864,15 +864,15 @@ border-radius:0px;
 	}
 
 .evnt_prt_1{
-	background : url(img/evnt01.png) center center no-repeat;	
+	background : url(img/evnt01.png) center center no-repeat;
 
-	} 
+	}
 .evnt_prt_2{
 	background : url(img/evnt02.png) center center no-repeat;
-} 
+}
 .evnt_prt_3{
 	background : url(img/evnt03.png) center center no-repeat;
-} 
+}
 .evnt_prt p,.evnt_prt_back p{
 	color:#ffffff;
 	font-size:14px;
@@ -902,7 +902,7 @@ border-radius:0px;
 	cursor:initial;
 }
 .two .btn-primary.btn_evnt{
-	border-radius:0;	
+	border-radius:0;
 }
 section.parallex_sec_1 {
 	background :rgba(0,0,0,0.8) url(img/girl2.png) center center no-repeat fixed;
@@ -930,7 +930,7 @@ section.video_background_sec {
 
 .video_background_sec  {
 	width: 100%;
-	
+
 	position: relative;
 	height: 100%;
 }
@@ -1018,10 +1018,10 @@ a.ui-icon-pause:hover{
 	filter: Alpha(Opacity=100);
 	}
 .video-bg-self .ui-video-background li:hover{
-	
-}  
 
- 
+}
+
+
 .mix {
 display : none;
 }
@@ -1029,7 +1029,7 @@ display : none;
 padding-bottom:0px;
 }
 .photo_gallery_sec .container-fluid{
-padding-left:0px;	
+padding-left:0px;
 padding-right:0px;
 background:#F7F4F4;
 }
@@ -1163,7 +1163,7 @@ box-shadow : none;
 transition : all 0.35s ease;
 }
 .gallery-nav.two button{
-border-radius : 0px;	
+border-radius : 0px;
 }
 .gallery-nav button:hover {
 background : #6B6B6B;
@@ -1186,7 +1186,7 @@ padding-bottom:0px;
 margin-bottom:20px;
 	}
 .bmaid_gmen_sec .social_icons{
-	
+
 	}
 
 .bmaid_gmen_sec .nav-tabs {
@@ -1198,7 +1198,7 @@ bottom : -42px;
 	display:block;
 	width:100%;
 	float:left;
-	} 
+	}
 .bmaid_gmen_sec .bmaid_nav .nav-tabs {
 padding-right : 20px;
 text-align:right;
@@ -1228,7 +1228,7 @@ border-radius:50%;
 	/* margin-left:-2px; */
 	}
 .bmaid_gmen_sec .gmen_sec .nav-tabs > li > a > img {
-	
+
 	}
 .bmaid_gmen_sec .nav-tabs > li > a {
 background : #fff;
@@ -1276,7 +1276,7 @@ width : 100%;
 float : left;
 }
 .bridemaid h3, .groomsmen h3 {
-color : #db4766;
+color : #DB4766;
 padding:0px 5px;
 font-size:30px;
 font-weight:400;
@@ -1347,7 +1347,7 @@ float : left;
 margin-left : 5px;
 }
 .groomsmen .social_icons a {
-margin-right:5px;	
+margin-right:5px;
 	}
 
 /* Blog section */
@@ -1371,13 +1371,13 @@ p.posting_date{
 .blog_post h3 a{
 	font-size:37px;
 	text-decoration:none;
-	color:#db4766;
+	color:#DB4766;
 	font-weight:400;
 	text-transform:initial;
 	transition:.4s;
 	}
 .blog_post h3 a:hover{
-	
+
 	text-shadow:0 0 2px rgba(189,71,102,0.3);
    }
 .blog_post .blog_text{
@@ -1404,7 +1404,7 @@ p.posting_date{
 .blog_bottom_line a{
 	text-decoration:none;
 	color:#3a3939;
-	
+
 	}
 .blog_bottom_line a.read_more{
 	float:right;
@@ -1426,7 +1426,7 @@ a.read_more .arrow-hov{
 	visibility:hidden;
 	}
 .blog_bottom_line a:hover{
-	color:#db4766;
+	color:#DB4766;
 	}
 .blog_post{
 	margin-bottom:90px;
@@ -1435,9 +1435,9 @@ a.read_more .arrow-hov{
 .blog_img img{
 	width:100%;
 	}
-	
-	
-	
+
+
+
 /* Single blog style  */
 .comment_sec{
 	padding-top:0;
@@ -1446,7 +1446,7 @@ a.read_more .arrow-hov{
 	}
 
 .comments-area {
-	
+
 	}
 .cmnt_head{
 	font-family: 'Open Sans', sans-serif;
@@ -1471,7 +1471,7 @@ a.replay_icon{
 	color:#656565;
 	}
 a.replay_icon:hover{
-	color:#db4766;
+	color:#DB4766;
 	}
 .comment-metadata{
 	margin-bottom:17px;
@@ -1490,14 +1490,14 @@ a.replay_icon:hover{
 .not_publish{
 	color:#969595;
 	font-size:13px;
-	
+
 	}
 p.not_publish::first-letter{
 	text-transform:uppercase;
 	}
 .commment_wrap .media-left{
 	padding-right:20px;
-	
+
 	}
 .commment_wrap a.media-left img{
 	width:70px;
@@ -1525,7 +1525,7 @@ p.not_publish::first-letter{
 
 /* Rsvp section  */
 p.social_icons{
-margin-bottom:0px;	
+margin-bottom:0px;
 }
 .social_icons.fl_left a {
 margin-right : 10px;
@@ -1536,7 +1536,7 @@ height : auto;
 }
 
 .form_wrapper{
-text-align:center;	
+text-align:center;
 }
 .form_wrapper .form-control {
 display : block;
@@ -1553,7 +1553,7 @@ box-shadow : none;
 transition : border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 .form_wrapper.two .form-control {
-border-radius : 0px;	
+border-radius : 0px;
 	}
 .form_wrapper .form-control:focus {
 border : none;
@@ -1593,7 +1593,7 @@ box-shadow : none;
 	padding-left:15px;
 	}
 textarea.txtarea{
-	
+
 	}
 .post_a_comment .form-control.txtarea{
 	height:160px;
@@ -1606,9 +1606,9 @@ textarea.txtarea{
 	line-height:45px;
 	text-transform:uppercase;
 	font-size:15px;
-	background:#db4766;
+	background:#DB4766;
 	font-weight:400;
-	border-color:#db4766;
+	border-color:#DB4766;
 	border-radius:3px;
 	}
 .btn_cmnt:hover{
@@ -1628,8 +1628,8 @@ background : rgba(75,75,75, 0.9);
 border-radius : 5px;
 }
 .form_wrapper.two{
-border-radius : 0px;	
-} 
+border-radius : 0px;
+}
 
 .form_wrapper h2.section-heading, .form_wrapper p {
 color : #ffffff;
@@ -1657,13 +1657,13 @@ float : left;
 max-width : 175px;
 }
 select.select_frm{
-     -webkit-appearance: none;       
-     -moz-appearance: none;    
+     -webkit-appearance: none;
+     -moz-appearance: none;
      appearance: none;
 	 color:#696969;
-     background: #fff url('img/form_carrot.png')  no-repeat;         
-     background-position: 97% 52%;                
-     background-size: 9px 8px; 
+     background: #fff url('img/form_carrot.png')  no-repeat;
+     background-position: 97% 52%;
+     background-size: 9px 8px;
 }
 select.select_frm:focus{
 	border:none;
@@ -1701,7 +1701,7 @@ padding-left:0;
 padding-right:0;
 padding-top:0px;
 }
-	
+
 /* Contact Map */
 .rsvp_sec{
 	padding-top:0;
@@ -1738,7 +1738,7 @@ padding-top:0px;
 	right:10px;
    }
 .rsvp_sec .rsvp_wrap{
-	
+
 	}
 /* Footer top section */
 .footer_top_sec{
@@ -1746,7 +1746,7 @@ padding-top:0px;
 	color:#afafaf;
 	padding:50px 0px 45px;
 	margin:0;
-	
+
 	}
 .footer_top_sec p{
 	color:#afafaf;
@@ -1797,10 +1797,10 @@ footer .social_icons li a{
 	color:#ffffff;
 	}
 footer .social_icons li a:hover{
-	color:#db4766;
+	color:#DB4766;
 	background:#ffffff;
 	}
-	
+
 
 .family_mem_caro_1{
 	width:36.75%;
@@ -1812,10 +1812,10 @@ footer .social_icons li a:hover{
 	width:36.75%;
 	float:left;
 	}
-	
+
 /*
-http://tympanus.net/Development/GridNavigationEffects/example5.html	
-	
+http://tympanus.net/Development/GridNavigationEffects/example5.html
+
 */
 .mix{
 	display:none;
@@ -1825,15 +1825,15 @@ http://tympanus.net/Development/GridNavigationEffects/example5.html
 }
 
 :-moz-placeholder { /* Firefox 18- */
-   color: #696969;  
+   color: #696969;
 }
 
 ::-moz-placeholder {  /* Firefox 19+ */
-   color: #696969;  
+   color: #696969;
 }
 
-:-ms-input-placeholder {  
-   color: #696969;  
+:-ms-input-placeholder {
+   color: #696969;
 }
 
 
@@ -2049,7 +2049,7 @@ span.blog-social a{
 	display:block;
 	float:left;
 	text-align:center;
-	background:#db4766;
+	background:#DB4766;
 	-webkit-transition:.5s;
 	-moz-transition:.5s;
 	-o-transition:.5s;
@@ -2065,8 +2065,8 @@ span.blog-social a:hover{
 	}
 span.blog-social a:hover i{
 	color:#ffffff;
-	}	
-	
+	}
+
 .search-form .input-group{
 	height:47px;
 	border:1px solid #EBEBEB;
@@ -2090,8 +2090,8 @@ span.blog-social a:hover i{
 	background:#ffffff;
 	}
 .search-form .input-group .btn_src:hover{
-	color:#db4766;
-	
+	color:#DB4766;
+
 	}
 .iframe{
 	width:100%;
@@ -2142,7 +2142,7 @@ div#tags{
 	font-weight:300;
 	}
 #sidebar ul li a:hover,#sidebar ul li a:focus{
-	color:#db4766;
+	color:#DB4766;
 	}
 #sidebar ul li a i{
 	padding-right:10px;
@@ -2181,7 +2181,7 @@ div#tags{
 	}
 #tags a:hover{
 	color:#ffffff;
-	background:#db4766;
+	background:#DB4766;
 	border:1px solid #ffffff;
 	padding:3px;
 	text-decoration:none;
@@ -2214,23 +2214,23 @@ div#tags{
 	border-left:1px solid #F1F1F1;
 	}
 #wp-calendar thead tr{
-	
+
 	}
 #wp-calendar thead tr th
         {
 	line-height:40px;
 	color:#656565;
-	font-size:18px;	
+	font-size:18px;
 	font-weight:400;
-    border-right:1px solid #F1F1F1;	
+    border-right:1px solid #F1F1F1;
     }
 #wp-calendar thead tr th:first-child{
 	 border-left:1px solid #DCDCDC;
-	 background:#db4766;
+	 background:#DB4766;
 	 color:#ffffff;
 	}
 #wp-calendar tr td#today{
-	 background:#db4766;
+	 background:#DB4766;
 	 color:#ffffff;
 	 box-sizing:padding-box;
 	}
@@ -2246,11 +2246,11 @@ div#tags{
 	color:#656565;
 	}
 #wp-calendar tbody tr td:first-child{
-	color:#db4766;
+	color:#DB4766;
 	}
 #wp-calendar tfoot tr td a{
 	text-decoration:none;
-	color:#db4766;
+	color:#DB4766;
 	}
 
 
@@ -2284,7 +2284,7 @@ div#tags{
 	border:1px solid #DB4766;
 	}
 .disabled{
-	
+
 	}
 
 
@@ -2306,7 +2306,7 @@ div#tags{
 	border-bottom:2px solid #DCDCDC;
 	padding:0px 13px 30px;
 	margin-left:-5px;
-	
+
 	}
 .love_story_tab  .nav-tabs > li:first-child{
 	padding-left:40px;
@@ -2424,10 +2424,10 @@ div#tags{
 .love_story_tab.three .love_story_img{
 	padding-left:33px;
 	}
-	
+
 /* Family member carosel 3 */
 .family_mem_caro_3 .family_mem_carosel .family_mem_img img{
-	
+
 	width:100%;
 	}
 
@@ -2501,7 +2501,7 @@ div#tags{
 	top: 108px;
 	position: relative;
 	}
-	
+
 /* Family member tab */
 
 .family_member_wrap.four{
@@ -2561,7 +2561,7 @@ div#tags{
 	content:"";
 	width:10px;
 	height:10px;
-	background:#db4766;
+	background:#DB4766;
 	transform:rotatez(45deg);
 	bottom: -6px;
 	right: 50%;
@@ -2592,8 +2592,8 @@ div#tags{
 	transition:.35s;
 	}
 .family_tab_4 .nav-tabs > li.active > a, .family_tab_4 .nav-tabs > li.active > a:hover, .family_tab_4 .nav-tabs > li.active > a:focus{
-	border-color:#db4766;
-	background:#db4766;
+	border-color:#DB4766;
+	background:#DB4766;
 	color:#ffffff;
 	}
 .family_tab_4 .brgm_overlay{
@@ -2681,9 +2681,9 @@ div#tags{
 	margin-left:4px;
 }
 .four .br_grm .social_icons a:hover, .four .family_member_wrap .social_icons a:hover,.four  .bmaid_gmen_sec .social_icons a:hover,.three-ind  .bmaid_gmen_sec .social_icons a:hover,.wed .modal-footer .social_icons a:hover {
-	border:2px solid #db4766;
+	border:2px solid #DB4766;
 	background : transparent;
-	color : #db4766;
+	color : #DB4766;
 	}
 
 
@@ -2691,7 +2691,7 @@ div#tags{
 margin-right:0px;
 }
 .groomsmen .social_icons a:first-child{
-margin-left:0px;	
+margin-left:0px;
 	}
 /* Audio style */
 
@@ -2707,7 +2707,7 @@ margin-left:0px;
 	top:42px;
 	}
 @media only screen and (max-width:1200px){
-	
+
 	}
 .jp-volume-controls{
 	left:84%;
@@ -2726,9 +2726,9 @@ margin-left:0px;
 .jp-audio .jp-interface, .jp-audio-stream .jp-interface{
 	height:100px;
 	}
-/* Audio style  */	
-	
-	
+/* Audio style  */
+
+
 /* Blog section end */
 .scrollup{
 	position: fixed;
@@ -2753,13 +2753,13 @@ margin-left:0px;
 	}
 #toTop:hover{
 	background: rgba(219,71,102, 1);
-	
+
 	}
 #toTop a{
 	font-size:17px;
 	color:#fff;
 	display:block;
-	
+
 	}
 
 /*  Bride Groom Modal */
@@ -2773,11 +2773,11 @@ body.modal-open {
 .wed .modal-dialog{
 	margin-top:70px;
 	text-align:center;
-	
+
 	}
 @media (min-width:768px){
 	.wed .modal-dialog{
-	width:530px;	
+	width:530px;
 	}
 	}
 
@@ -2817,8 +2817,8 @@ body.modal-open {
 	border-bottom:none;
 	}
 .cls-wed{
-	background:#db4766;
-	border-color:#db4766;
+	background:#DB4766;
+	border-color:#DB4766;
 	color:#ffffff;
 	}
 .cls-wed:hover{
@@ -2826,7 +2826,7 @@ body.modal-open {
 	border-color:#c53f5b;
 	color:#ffffff;
 	}
-	
+
 /* Timeline */
 
 .lovestory_timeline_sec{
@@ -2858,7 +2858,7 @@ body.modal-open {
 
 .timeline>li {
     position: relative;
-    margin-bottom: 60px; 
+    margin-bottom: 60px;
 }
 
 .timeline>li .timeline-panel:before {
@@ -2879,7 +2879,7 @@ body.modal-open {
 
 
 .timeline>li.left-panel{
-	
+
 	}
 
 
@@ -2923,7 +2923,7 @@ body.modal-open {
 }
 
 .timeline>li .timeline-image.more{
-	background:#DB4766;	
+	background:#DB4766;
 	height:102px;
 	width:102px;
 	margin-left:-18.5px;
@@ -2932,7 +2932,7 @@ body.modal-open {
 
 .timeline>li .timeline-image.more a{
 	text-decoration: none;
-	border: 3px solid #db4766;
+	border: 3px solid #DB4766;
 	background: #fff;
 	display: block;
 	width: 100%;
@@ -2941,7 +2941,7 @@ body.modal-open {
 	padding:3px;
 	}
 .timeline>li .timeline-image.more a .inner-more{
-	background:#db4766;
+	background:#DB4766;
 	border-radius:50%;
 	}
 .timeline>li .timeline-image.more  p{
@@ -2950,7 +2950,7 @@ body.modal-open {
 	line-height:82px;
 	font-size:22px;
 	font-weight:500;
-	
+
 	}
 .timeline>li .timeline-image.more:hover .inner-more{
 	background:#c53f5b;
@@ -2967,7 +2967,7 @@ body.modal-open {
 	margin-top: 0px;
     margin-bottom: 13px;
 	font-size: 40px;
-	color: #db4766;
+	color: #DB4766;
 	font-weight: 400;
 	text-transform: initial;
 	}
@@ -2985,11 +2985,11 @@ body.modal-open {
     padding:14px 20px 20px;
     text-align: left;
 	height:auto;
-	
+
    }
 
 
-	
+
 .timeline>li.timeline-inverted>.timeline-panel:after {
     right: auto;
     left: -14px;
@@ -3020,10 +3020,10 @@ body.modal-open {
 	.timeline_img img{
 	}
 	.timeline>li.timeline-inverted>.timeline-panel,.timeline>li >.timeline-panel{
-	padding:8px;	
+	padding:8px;
 	}
 	.timeline-heading h3{
-	font-size:28px;	
+	font-size:28px;
 	}
 	}
 @media(min-width:240px) {
@@ -3034,14 +3034,14 @@ body.modal-open {
 	}
 @media(min-width:414px) {
 	.timeline>li .timeline-panel{
-	width:75%;	
+	width:75%;
 	}
 	}
 @media(min-width:769px) {
 	.timeline_img img{
 	width: 100%;
 	height: 251px;
-	
+
 	border-radius: 0px;
 	}
     .timeline:before {
@@ -3075,7 +3075,7 @@ body.modal-open {
 	border-left:1px solid #ffffff;
 	border-top:1px solid #e5e5e5;
 	border-right:1px solid #e5e5e5;
-	
+
 	transform:rotatez(45deg);
 	}
     .timeline>li {
@@ -3083,14 +3083,14 @@ body.modal-open {
     }
     .timeline>li.left  {
 	margin-top:-224px;
-	} 
-	
+	}
+
     .timeline>li.right:not(:first-child)  {
 	margin-top:-80px;
-	
+
 	}
-	
-     
+
+
     .timeline>li .timeline-panel {
         float: left;
         width: 43.65%;
@@ -3149,18 +3149,18 @@ body.modal-open {
 	transform:rotatez(45deg);
 	}
 	.timeline>li .timeline-image.more {
-	background:#DB4766;	
+	background:#DB4766;
 	height:102px;
 	width:102px;
 	margin-left:-50.5px;
-	
+
 }
-	
+
 }
 
 @media(min-width:992px) {
     .timeline>li {
-  
+
     }
 
     .timeline>li .timeline-panel {
@@ -3168,12 +3168,12 @@ body.modal-open {
     }
     .timeline>li.left  {
 	   margin-top:-310px;
-	} 
+	}
 	 .timeline>li.right:not(:first-child)  {
 	margin-top:-120px;
-	
+
 	}
-   
+
     .timeline>li .timeline-image h4 {
         margin-top: 30px;
         font-size: 18px;
@@ -3203,7 +3203,7 @@ body.modal-open {
     }
 }
 .timeline-body{
-	position:relative;	
+	position:relative;
 	}
 div.overlay_tml{
 	background:rgba(219, 71, 102, 0.8);
@@ -3258,11 +3258,11 @@ div.timeline_img:hover .inner-extra a{
 div.timeline_img:hover .inner-extra p{
 	bottom:0;
    }
-/* Timeline End*/	
-	
-	
-	
-	
+/* Timeline End*/
+
+
+
+
 /* PRELOAD */
 
 #preload {
@@ -3272,7 +3272,7 @@ div.timeline_img:hover .inner-extra p{
     bottom:0;
     right:0;
     width: 100%;
-    height: 100%; 
+    height: 100%;
     z-index: 9999999;
     display:table;
 }
@@ -3311,7 +3311,7 @@ div.timeline_img:hover .inner-extra p{
 	border-top: 1.1em solid #fff;
 	border-right: 1.1em solid #fff;
 	border-bottom: 1.1em solid #fff;
-	border-left: 1.1em solid #db4766;
+	border-left: 1.1em solid #DB4766;
 }
 @-webkit-keyframes load8 {
     0% {
@@ -3333,7 +3333,7 @@ div.timeline_img:hover .inner-extra p{
         transform: rotate(360deg);
     }
 }
-.tab-content .tab-pane {    
+.tab-content .tab-pane {
     position: relative;
 }
 
@@ -3366,7 +3366,7 @@ div.timeline_img:hover .inner-extra p{
 	bottom: 30px;
 	left: 50%;
 	margin:0 auto;
-	
+
 	width: 46.15%;
 	z-index: 100;
 	}
@@ -3400,7 +3400,7 @@ div.timeline_img:hover .inner-extra p{
 	 line-height: 90px;
 	 color:#ffffff;
 	 text-align: center;
-	
+
 	}
 .countdown_descr{display:block;}
 .countdown_show{}
@@ -3409,15 +3409,15 @@ div.timeline_img:hover .inner-extra p{
 .new_slide{
 	z-index:9999;
 	}
-	
-	
+
+
 /* Index three new style */
 /* Index three new style */
 /* Index three new style */
 /* Index three new style */
 
 .three-ind{
-	
+
 	}
 .three-ind .four .br_grm .social_icons a, .three-ind .four .family_member_wrap .social_icons a, .three-ind .four .bmaid_gmen_sec .social_icons a, .three-ind .bmaid_gmen_sec .social_icons a, .three-ind .wed .modal-footer .social_icons a{
 	border-radius:0;
@@ -3487,8 +3487,8 @@ div.timeline_img:hover .inner-extra p{
 	filter: Alpha(Opacity=100);
 	}
 .video-bg-self-2 .ui-video-background li:hover{
-	
-}  
+
+}
 
 /* Countdown Three */
 
@@ -3540,7 +3540,7 @@ div.timeline_img:hover .inner-extra p{
 	}
 
 /* Countdown Three end*/
- 
+
  /* Bride groom 3 */
  .three-ind  .brd_grm_wrapper{
 	 background:#fff;
@@ -3601,7 +3601,7 @@ div.timeline_img:hover .inner-extra p{
 	width:100%;
 	height:100%;
 	}
-	
+
 /* Love story tab 3 */
 .three-ind  .love_story_tab .nav-tabs > li > a{
 	width:76px;
@@ -3640,7 +3640,7 @@ div.timeline_img:hover .inner-extra p{
 .family-wrap-3{
 	width:100%;
 	float:left;
-	
+
 	}
 .family-wrap-3.bride-family-3{
 	padding-bottom:50px;
@@ -3649,7 +3649,7 @@ div.timeline_img:hover .inner-extra p{
 .family-wrap-3.groom-family-3{
 	padding-top:70px;
 	}
-	
+
 /* Bridemaid GroomsMen */
 .three-ind  .bmaid_gmen_sec .nav-tabs > li > a,.three-ind  .bmaid_gmen_sec .nav-tabs > li > a > img{
 	border-radius:0;
@@ -3657,7 +3657,7 @@ div.timeline_img:hover .inner-extra p{
 .three-ind .bridemaid_tab_content, .three-ind .groomsmen_tab_content{
 	border-radius:0;
 	}
-	
+
 section{
 	max-width:100%;
 	overflow-x:hidden;

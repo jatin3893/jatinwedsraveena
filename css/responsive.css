@@ -1,9 +1,9 @@
 @media only screen and (max-width:1200px){
 	.form_wrapper{
-	width:90%;	
+	width:90%;
 	}
 	.slide_text_wrap{
-	top:20%;	
+	top:20%;
 	}
 	.countdown_section{
 	height:90px;
@@ -21,18 +21,18 @@
 	bottom:27%;
 	}
 	.three-ind .brd_grm_wrap{
-	height:auto;	
+	height:auto;
 	}
 	}
 @media only screen and (max-width:1080px){
-	
+
 	.slides h2.slider-head{
-	font-size:90px;	
+	font-size:90px;
 	}
 	.slide_text_wrap{
-	top:20%;	
+	top:20%;
 	}
-	
+
 	.countdown-wrap{
 	bottom:25%;
 	z-index:99;
@@ -81,20 +81,20 @@
 		}
 	.photo-container .mix,.photo-container .mix.mix_big {
 		width:25%
-		}	
-	 
+		}
+
 	.slides h2.slider-head{
-	   font-size:70px;	
+	   font-size:70px;
 	}
      .slides p{
-	   font-size:16px; 
+	   font-size:16px;
 	}
 	.countdown{
 	width:50%;
 	}
-	
+
 	.love_story_tab.three .love_story_img{
-	padding-left:0;	
+	padding-left:0;
 	}
 	 .love_story_tab.three .nav-tabs > li.active:before{
 	position: absolute;
@@ -113,7 +113,7 @@
 	text-align:center;
 	}
 	.love_story_tab.three .nav-tabs > li{
-	border-right:0;	
+	border-right:0;
 	border-bottom:2px solid #DCDCDC;
 	padding:0px 13px 30px;
 	float:none;
@@ -127,36 +127,36 @@
 	padding-right:40px;
 	}
 	.love_story_tab.three .nav-tabs > li:hover:before,.love_story_tab.three .nav-tabs > li.active:before{
-	margin-left:-13px;	
+	margin-left:-13px;
 	}
 	.love_story_tab.three .nav-tabs > li:last-child:hover:before, .love_story_tab.three .nav-tabs > li:first-child.active:before{
-	left:78px;	
+	left:78px;
 	}
 	 .love_story_tab.three .nav-tabs > li:last-child.active:before{
 	margin-top:-15.5px;
 	left:52px;
 	}
 	.family_tab_4 .family_mem_wrap{
-	margin-bottom:60px;	
+	margin-bottom:60px;
 	}
-	
+
 	.footer_sec span.copyright{
-	float:none;	
+	float:none;
 	}
 	.footer_sec ul.social_icons{
-	text-align:center;	
+	text-align:center;
 	}
 	.footer_top_sec p{
-	margin-bottom:15px;	
+	margin-bottom:15px;
 	}
 	.footer_top_sec p.phone{
-	text-align:center;	
+	text-align:center;
 	}
 	.footer_top_sec p.address{
-	text-align:center;		
+	text-align:center;
 	}
 	.jp-state-no-volume .jp-volume-controls,.jp-volume-controls button,.jp-volume-bar,.jp-volume-max,.jp-mute{
-	display:block;	
+	display:block;
 	}
 	}
 @media only screen and (max-width:860px){
@@ -164,7 +164,7 @@
 	bottom:25%;
 	}
 	.countdown{
-	width:55%;	
+	width:55%;
 	}
 	.form_wrapper.new{
 	right:0;
@@ -178,7 +178,7 @@
 		padding-left:15px;
 		padding-right:15px;
 		}
-	
+
 	section h2.section-heading{
 		font-size:50px;
 		}
@@ -203,13 +203,13 @@
 		}
 	.photo-container .mix {
 		width:50%
-		}	
+		}
 	.photo-container .mix.mix_big {
 		width:50%
-		}	
+		}
 	#family_member1{
 		margin-bottom:70px;
-		}	
+		}
 	.bmaid_gmen_sec .bmaid_nav .nav-tabs {
 	padding-right:0px;
 	text-align:center;
@@ -217,26 +217,26 @@
 	.bmaid_gmen_sec .gmen_nav .nav-tabs {
 	padding-left:0px;
 	text-align:center;
-	}	
+	}
 	.bridemaid,.groomsmen{
 	text-align:center;
 	}
-	
+
 	.bridemaid .social_icons a {
 	margin-left : 5px;
 	margin-left : 5px;
 	}
 	.groomsmen .social_icons a {
 	margin-left : 5px;
-	margin-left : 5px;	
+	margin-left : 5px;
 	}
     .form_wrapper{
-	width:90%;	
+	width:90%;
 	}
-		
+
 	footer{
 	line-height:60px;
-	}	
+	}
 	footer span.copyright{
 	float:none;
 	text-align:center;
@@ -244,7 +244,7 @@
 	footer ul.social_icons{
 	text-align:center;
 	}
-	
+
 	.countdown_section{
 		height:60px;
 		font-size:16px;
@@ -266,23 +266,23 @@
 	text-align:center;
 	}
 	.bmaid_sec{
-	padding-left:15px;	
+	padding-left:15px;
 	}
-	
+
 	.family_member_wrap h2.family_title{
-	font-size:40px;	
+	font-size:40px;
 	}
 	.family_mem_caro_1,.family_mem_caro_2{
-	
+
 	float:none;
 	margin-left:auto;
 	margin-right:auto;
 	}
 	.slides h2.slider-head{
-	font-size:65px;	
+	font-size:65px;
 	}
 	.slides p{
-	 font-size:15px;	
+	 font-size:15px;
 	}
 	.jp-audio .jp-type-single .jp-progress{
 	width:60%;
@@ -291,29 +291,29 @@
 	left:81%;
 	}
 	}
-	
+
 	@media only screen and (max-width:640px){
 	.bride_groom_sec{
-	padding-top:60px;	
+	padding-top:60px;
 	}
 	.blog_article_wrap .blog_post h3 a{
-	font-size:30px;	
+	font-size:30px;
 	}
 	.form_wrapper{
-	width:100%;	
-	}	
+	width:100%;
+	}
 	.bridemaid_tab_content, .groomsmen_tab_content{
-	padding:50px 20px;	
+	padding:50px 20px;
 	}
 	.family_member_wrap h2.family_title{
-	font-size:35px;	
+	font-size:35px;
 	}
-	
+
 	.countdown-wrap{
 	bottom:19%;
 	}
 	.countdown{
-	width:65%;	
+	width:65%;
 	}
 	.countdown_section{
 	height:65px;
@@ -325,9 +325,9 @@
 	line-height:65px;
 	}
 	.slide_text_wrap{
-	top:18%;	
+	top:18%;
 	}
-	.jp-audio .jp-type-single .jp-progress{   
+	.jp-audio .jp-type-single .jp-progress{
 	width:54%;
 	}
 	.jp-volume-controls{
@@ -335,10 +335,10 @@
 	}
 	.three-ind .love_story_tab .nav-tabs > li > a{
 	width:60px;
-	height:61px;	
+	height:61px;
 	}
 	.love_story_tab.three .nav-tabs > li{
-	padding:0px 5px 30px;	
+	padding:0px 5px 30px;
 	}
 	.love_story_tab.three .nav-tabs > li:first-child.active:before,.love_story_tab.three .nav-tabs > li:last-child.active:before {
 	margin-top:-15px;
@@ -347,11 +347,11 @@
 	padding-left:5px;
 	}
 	.love_story_tab.three .nav-tabs > li:last-child{
-	padding-right:5px;	
+	padding-right:5px;
 	}
 	.love_story_tab.three .nav-tabs > li:first-child.active:before{
-	left:50%;	
-	
+	left:50%;
+
 	}
 	.love_story_tab.three .nav-tabs > li:last-child.active:before{
 	left:50%;
@@ -363,20 +363,20 @@
 	max-width:100%;
 	}
 	.form_wrapper .select_attend{
-	margin-left:0;	
+	margin-left:0;
 	}
 	.rsvp_wrap{
-	text-align:center;	
+	text-align:center;
 	}
 	.form_wrapper .btn_attend{
-	margin-left:auto;	
-	margin-right:auto;	
+	margin-left:auto;
+	margin-right:auto;
 	}
 	.form_wrapper.new{
 	margin-top:-762px;
 	}
 	#rsvp .map-holder{
-	height:850px;	
+	height:850px;
 	}
 	.photo_gallery_sec .controls{
 	    float:left;
@@ -390,7 +390,7 @@
 		padding:0px 5px;
 		}
 	.slides h2.slider-head{
-	font-size:48px;	
+	font-size:48px;
 	}
 	.slides p{
 	font-size:14px;
@@ -424,16 +424,16 @@
 	}
 	.family_mem_caro_1{
 	width:77.75%;
-	
+
 	}
    .family_mem_caro_2{
 	width:77.75%;
 	}
-	
+
 	/* index 2 style */
-	
+
 	.love_story_tab .nav-tabs > li{
-	padding:0px 5px 30px;	
+	padding:0px 5px 30px;
 	}
 	.love_story_tab  .nav-tabs > li:first-child{
 	padding-left:5px;
@@ -442,34 +442,34 @@
 	padding-right:5px;
 	}
 	.love_story_tab .nav-tabs > li:first-child:hover:after, .love_story_tab .nav-tabs > li:first-child.active:after{
-	left:50%;	
+	left:50%;
 	}
 	.love_story_tab .nav-tabs > li:last-child:hover:after, .love_story_tab .nav-tabs > li:last-child.active:after{
-	left:50%;	
+	left:50%;
 	}
 	.blog_bottom_line span + span + span + span a.read_more{
 		float:none;
 		}
-	
-	
+
+
 	}
-	
-	
-	
-	
+
+
+
+
 	@media only screen and (max-width:480px){
 	.photo-container .mix {
 		width:100%;
 		height:auto;
 		margin-left:0px;
 		margin-right:0px;
-		}	
+		}
 	.photo-container .mix img{
 		height:auto;
 	   }
 	.photo-container .mix.mix_big {
 		width:100%
-		}	
+		}
 	.form_wrapper .btn_attend{
 		width:100%;
 		}
@@ -478,20 +478,20 @@
 		padding-right:40px;
 		}
 	.slides h2.slider-head{
-	font-size:48px;	
+	font-size:48px;
 	}
 	.slides p{
 	font-size:14px;
 	line-height:100%;
 	}
 	.blog_img{
-	height:auto;	
+	height:auto;
 	}
 	.round .br_grm{
-	padding:80px 30px 70px;	
+	padding:80px 30px 70px;
 	}
 	.form_hf{
-	width:100%;	
+	width:100%;
 	}
 	.form_hf.name{
 	padding-right:0px;
@@ -513,18 +513,18 @@
 	line-height:44px;
 	}
 	.three-ind .countdown{
-	width:320px;	
+	width:320px;
 	}
 	.three-ind .countdown_section{
-	height:100px;	
+	height:100px;
 	}
 	.three-ind .countdown_amount{
-	font-size:35px;	
+	font-size:35px;
 	line-height:100px;
 	height:100px;
 	}
 	.three-ind .countdown_section .countdown_amount:after{
-	font-size:18px;	
+	font-size:18px;
 	}
 	.jp-audio .jp-type-single .jp-progress{
 	width:39%;
@@ -545,7 +545,7 @@
 		font-size:40px;
 		}
 	.round .br_grm{
-	    padding:80px 15px 70px;	
+	    padding:80px 15px 70px;
 	}
 	.family_tab_4 .nav-tabs > li > a{
 		margin-bottom:20px;
@@ -554,7 +554,7 @@
 		font-size:33px;
 		}
 	.slide_text_wrap{
-	     display:none;	
+	     display:none;
 	    }
 	.countdown{
 		width:85%;
@@ -579,43 +579,43 @@
 	left:96px;
 	}
 	.jp-volume-bar{
-	width:30px;	
+	width:30px;
 	}
 	.jp-volume-max{
-	left:55px;	
+	left:55px;
 	}
 	.jp-volume-controls{
 	left:68%;
 	}
 	/* Index 2 style  */
-    
+
 	.love_story_tab .nav-tabs > li > a{
 	 width:50px;
 	 height:50px;
 	}
 	.three-ind .love_story_tab .nav-tabs > li > a{
 	width:42px;
-	height:42px;	
+	height:42px;
 	}
 	.video-bg-self{
-	padding:147px 0px 153px 0px	
+	padding:147px 0px 153px 0px
 	}
 	.blog_article_wrap{
 	float:left;
 	clear:both;
 	}
 	.blog_article_wrap p.blog_bottom_line span:nth-child(4){
-	display:none;	
+	display:none;
 	}
 	.blog_article_wrap p.blog_bottom_line span:nth-child(5){
 	float: left;
 	clear: both;
-	margin-top: 10px;	
-	} 
+	margin-top: 10px;
+	}
 	.blog_article_wrap p.blog_bottom_line span:nth-child(6){
 	float: left;
 	clear: none;
-	margin-top: 10px;	
+	margin-top: 10px;
 	}
 	p.blog_bottom_line span.blog-social{
 	float:left;
@@ -624,24 +624,24 @@
 	}
 	@media only screen and (max-width:360px){
 	.breadcrumb > li > a{
-	line-height:20px;	
+	line-height:20px;
 	}
 	.round .br_grm{
-	padding:80px 0px 70px;	
+	padding:80px 0px 70px;
 	}
 	.footer_sec{
-	line-height:45px;	
+	line-height:45px;
 	}
 	.blog_bottom_line span + span + span + span{
-		
+
 		}
-	
+
 	.blog_article_wrap{
 		float:left;
 		clear:both;
 		display:block;
 		}
-	
+
 	.jp-audio .jp-controls{
 		padding:30px 5px 0;
 		}
@@ -659,7 +659,7 @@
 	    left:64%;
 	 }
 	 .love_story_tab .nav-tabs > li{
-	  padding:0px 0px 25px;	 
+	  padding:0px 0px 25px;
 	}
 		}
 	@media only screen and (max-width:320px){
@@ -668,23 +668,23 @@
         padding-right: 25px;
 		}
 	section h2.section-heading{
-		font-size:38px;	
+		font-size:38px;
 		}
 	.three-ind .countdown{
-	margin-right:-13px;	
+	margin-right:-13px;
 	}
 	/* new add */
 	.brd_grm_wrap{
-	width:100%;	
+	width:100%;
 	}
 	.heart_frame{
 	top:0;
 	left:0;
 	right:0;
-	
+
 	}
 	.brd_grm_img{
-	padding:15px 10px;	
+	padding:15px 10px;
 	}
 	/* new add */
 	.br_grm h3{
@@ -713,11 +713,11 @@
 	.jp-volume-controls{
 	    left:60%;
 	}
-		
-	
+
+
 		}
-		
-		
+
+
 /*  thyggkjbkj */
 
 .preloader {
@@ -735,7 +735,7 @@
   left:0;
   right:0;
   bottom:0;
-  background-color:#db4766;
+  background-color:#DB4766;
   z-index:9999999999;
 }
 
@@ -760,7 +760,7 @@
   position:relative;
   width:200px;
   height:200px;
-  
+
 }
 
 #bowl_ringG {
@@ -848,7 +848,7 @@
   top:-47px;
   width:75px;
   height:75px;
- 
+
   -moz-border-radius:67px;
   -webkit-border-radius:67px;
   -ms-border-radius:67px;
